@@ -1,3 +1,4 @@
 GITH-391 - Testing GIT
 Edit file from GIT Hub account...should be with WI GITH-391. What happened?
 Done Aug 3 2017
+Doing it again on Aug 3 2017 - no URL in the View* config setup
